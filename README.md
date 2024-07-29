@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meltingBlue3
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in Pokemon TCG
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... no you can't
 
